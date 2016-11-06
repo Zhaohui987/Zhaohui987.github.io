@@ -44,7 +44,7 @@ ul,li{
 
 /*左侧提示*/
 .tips{
-    width: 50%;
+    width: 30%;
     height: 100%;
     position: absolute;
     left: 4.375rem;
@@ -55,7 +55,10 @@ ul,li{
     height: 4.375rem;
     cursor: pointer;
 }
-
+.logo img{
+    width: 6.25rem;
+    height: 4.375rem;
+}
 .tips_p{
     font-size: 0.875rem;
     font-weight: normal;
@@ -72,6 +75,7 @@ ul,li{
 /* 右侧导航 */
 
 #nav{
+    height: 100%;
     position: absolute;
     right: 0.625rem;
     top: 0.625rem;
@@ -79,7 +83,7 @@ ul,li{
 .nav-menu {
     display: block;
     background: #74adaa;
-    width: 34.375rem;;
+    width: 34.375rem;
 }
 .nav-menu > li {
     display: inline;
@@ -98,7 +102,7 @@ ul,li{
     overflow: visible;
     line-height: 1.25rem;
     font-size: 1.25rem;
-    padding: 0.9375rem 1.875rem 0.9375rem 1.875rem;
+    padding: 0.9rem 1.8rem 0.9rem 1.8rem;
 }
 
 .three-d {
@@ -170,7 +174,7 @@ ul,li{
     top: 0;
     left: 0;
     background: #74adaa;
-    padding: 0.9375rem 1.875rem 0.9375rem 1.875rem;
+    padding: 0.9rem 1.8rem 0.9rem 1.8rem;
     color: white;
     pointer-events: none;
     -webkit-box-sizing: border-box;
@@ -219,8 +223,9 @@ ul,li{
     height: 6.25rem;
 }
 .section1-photos img{
+    width: 6.25rem;
+    height: 6.25rem;
     border-color: #a4e2c6;
-
     position: absolute;
     top: 0;
     left: 0;
@@ -619,22 +624,20 @@ img .photo2 {
 }
 
 
-@media screen and (max-width: 1023px){
+@media screen and (max-width: 800px){
     html {
-        font-size: 16px;
+        font-size: 8px;
         -webkit-text-size-adjust: none;
     }
 }
 
 
 
+/*
 @media screen and (min-width:1024px) and (max-width: 1500px){
     html {
         font-size: 16px;
         -webkit-text-size-adjust: none;
-    }
-    .contact_box i{
-        display: none;
     }
 }
 
@@ -651,5 +654,6 @@ img .photo2 {
         -webkit-text-size-adjust: none;
     }
 }
+*/
 
 
