@@ -86,21 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44863012">
-              <caret line="258" column="13" selection-start-line="258" selection-start-column="13" selection-end-line="258" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="265" column="13" selection-start-line="265" selection-start-column="13" selection-end-line="265" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.724138">
-              <caret line="70" column="34" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="34" />
+            <state vertical-scroll-proportion="7.4378376">
+              <caret line="184" column="36" selection-start-line="184" selection-start-column="36" selection-end-line="184" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -155,8 +155,8 @@
         <option value="$PROJECT_DIR$/demo/jd/index.html" />
         <option value="$PROJECT_DIR$/实验.html" />
         <option value="$PROJECT_DIR$/js/index.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -290,7 +290,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -727,18 +727,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.724138">
-          <caret line="70" column="34" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="265" column="13" selection-start-line="265" selection-start-column="13" selection-end-line="265" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44863012">
-          <caret line="258" column="13" selection-start-line="258" selection-start-column="13" selection-end-line="258" selection-end-column="13" />
+        <state vertical-scroll-proportion="7.4378376">
+          <caret line="184" column="36" selection-start-line="184" selection-start-column="36" selection-end-line="184" selection-end-column="36" />
           <folding />
         </state>
       </provider>
